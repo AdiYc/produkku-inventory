@@ -8,6 +8,6 @@ Anda diperbolehkan untuk melakukan kontribusi pada aplikasi ini. Jika Anda ingin
 Aplikasi ini dirilis di bawah Lisensi MIT. Anda dapat melihat teks lengkap dari lisensi ini di LICENSE.md.
 
 ## Cara Menggunakan
-Untuk menggunakan aplikasi ini, Anda perlu menginstal server web seperti Apache atau Nginx, serta PHP dan database MySQL atau MariaDB. Kemudian, salin isi repositori ini ke direktori web Anda dan konfigurasikan file .env sesuai dengan lingkungan pengembangan Anda. Jalankan perintah composer install untuk menginstal dependensi PHP dan jalankan aplikasi di browser Anda.
+Untuk menggunakan aplikasi ini, Anda perlu memastikan sudah memiliki XAMPP atau software sejenis yang telah terpasang pada komputer Anda. Salin seluruh isi repositori ini ke dalam folder "htdocs" di dalam direktori XAMPP. Kemudian, impor database yang telah disediakan ke dalam MySQL atau MariaDB. Setelah itu, buka file koneksi.php dan sesuaikan konfigurasi database sesuai dengan lingkungan pengembangan Anda. Terakhir, jalankan aplikasi di browser Anda.
 
 Jangan ragu untuk mengirimkan masukan atau pertanyaan Anda melalui Issues. Terima kasih telah menggunakan Produku!
