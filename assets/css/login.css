@@ -1,0 +1,23 @@
+
+body {
+    background-color: #f8f9fa;
+}
+
+.form-login {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.form-login .card-header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+.form-login .card-footer {
+    background-color: #f8f9fa;
+    border-top: none;
+    text-align: center;
+}
