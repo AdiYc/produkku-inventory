@@ -1,4 +1,6 @@
 # Produku
+![Alt Text](https://github.com/AdiYc/ProdukuInventory/blob/main/ss/Capture-Produkku.PNG)
+
 Produku adalah aplikasi manajemen produk yang mudah digunakan dan didukung oleh bahasa pemrograman PHP dan framework Bootstrap. Aplikasi ini dapat membantu Anda mengelola data produk dengan mudah, seperti menambahkan, mengedit, dan menghapus produk, serta mencari produk berdasarkan nama. Produk dapat diidentifikasi melalui nama, deskripsi, harga, dan gambar.
 
 ## Kontribusi
